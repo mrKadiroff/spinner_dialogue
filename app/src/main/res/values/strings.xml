@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spinner_dialog</string>
+    <string-array name="restaurantList">
+        <item>Choose a restaurant…</item>
+        <item>Burger King</item>
+        <item>Carls Jr.</item>
+        <item>Dominos Pizza</item>
+        <item>KFC</item>
+        <item>McDonalds</item>
+        <item>Nandos</item>
+    </string-array>
+</resources>
